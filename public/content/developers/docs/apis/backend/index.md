@@ -20,6 +20,15 @@ These libraries abstract away much of the complexity of interacting directly wit
 
 ## Available libraries {#available-libraries}
 
+**Moralis -** **_Developer APIs and RPC for EVMs_**
+
+- [moralis.io](http://moralis.io/?utm_source=ethereum-docs&utm_medium=partner-docs)
+- [Moralis RPC Nodes](http://moralis.io/nodes/?utm_source=ethereum-docs&utm_medium=partner-docs)
+- [Documentation](https://docs.moralis.io/?utm_source=ethereum-docs&utm_medium=partner-docs)
+- [GitHub](https://github.com/MoralisWeb3)
+- [Discord](https://moralis.io/joindiscord/?utm_source=ethereum-docs&utm_medium=partner-docs)
+- [Forum](https://forum.moralis.io/)
+
 **Alchemy -** **_Ethereum Development Platform._**
 
 - [alchemy.com](https://www.alchemy.com/)
@@ -139,14 +148,6 @@ These libraries abstract away much of the complexity of interacting directly wit
 
 - [noderpc.xyz](https://www.noderpc.xyz/)
 - [Documentation](https://docs.noderpc.xyz/)
-
-**Moralis -** **_Enterprise-Grade EVM API Provider._**
-
-- [moralis.io](http://moralis.io)
-- [Documentation](https://docs.moralis.io/)
-- [GitHub](https://github.com/MoralisWeb3)
-- [Discord](https://moralis.io/joindiscord/)
-- [Forum](https://forum.moralis.io/)
 
 **Chainbase -** **_All-in-one web3 data infrastructure for Ethereum._**
 
